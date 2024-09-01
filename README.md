@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭I'm currently learning Full-stack development<br>🚀I am currently focusing on building projects.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranjal-udhwani-b3864523b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgRt0IUfwSK2MVcfxLrbF9w%3D%3D) 
