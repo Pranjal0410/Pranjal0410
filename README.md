@@ -1,4 +1,3 @@
-<img src="./assets/banner.png" width="100%" alt="Pranjal Udhwani - Full Stack Developer"/>
 
 <br/>
 
