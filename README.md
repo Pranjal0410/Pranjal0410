@@ -1,4 +1,6 @@
-
+<a href="https://pranjaludhwani.vercel.app/">
+  <img src="./assets/Untitled%20design.png" /> width="100%" alt="Pranjal - Full Stack Developer"/>
+</a>
 <br/>
 
 <img src="./assets/purple-divider.svg" width="100%"/>
