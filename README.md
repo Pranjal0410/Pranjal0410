@@ -1,79 +1,59 @@
 <a href="https://pranjaludhwani.vercel.app/">
-  <img src="./assets/piuo.png" width="100%" alt="Pranjal Udhwani — Full-Stack Developer, Systems Architect, AI Builder"/>
+  <img src="./assets/oops.png" width="100%" alt="Pranjal Udhwani"/>
 </a>
 
 <br/>
 
 <p align="center">
-  <em>I enjoy turning complex problems into simple, scalable solutions.</em><br/>
-  <em>From web platforms to full-stack applications — I focus on clarity, performance, and real-world impact.</em>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/pranjal-udhwani/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
   <a href="mailto:udhwanipranjal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>&nbsp;
   <a href="https://pranjaludhwani.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Pranjal0410&style=flat-square&color=black&label=views" alt="Profile views"/>
 </p>
 
 <br/>
 
----
-
-<br/>
-
-### About
-
-Computer Science student at Chitkara University. I build full-stack systems with a focus on generative AI, real-time architectures, and production-ready platforms. I care about writing clean code, designing thoughtful systems, and shipping things that actually work.
-
-<br/>
-
----
-
-<br/>
-
-### Currently
-
-- 🔬 Contributing to open-source — GSoC 2026 applicant
-- 🏗️ Building real-time incident response systems and AI-powered tools
-- 📚 Deepening expertise in systems design and distributed architectures
+```
+I build full-stack systems — from architecture to deployment.
+Generative AI, real-time platforms, production-grade applications.
+Clean code. Scalable design. Things that actually ship.
+```
 
 <br/>
 
 ---
 
-<br/>
-
-### Tech Stack
+### Stack
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,react,nextjs,nodejs,python,tailwindcss,css,spring,postgresql,mongodb,docker,git,github,figma,vercel&perline=8"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,python,java,cpp&perline=16" height="36"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,nodejs,spring,tailwindcss&perline=16" height="36"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,docker,git,vercel&perline=16" height="36"/>
 </p>
 
-<br/>
+<p align="center">
+  <sub><b>Languages</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Frameworks</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Infrastructure</b></sub>
+</p>
 
 ---
 
-<br/>
-
-### GitHub
+### Metrics
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Pranjal0410&theme=dark&hide_border=true&background=00000000&ring=888888&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=888888&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=555555"/>
-    <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjal0410&theme=default&hide_border=true&ring=333333&fire=000000&currStreakLabel=000000"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Pranjal0410&theme=dark&hide_border=true&background=0a0a0c&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8c8c91&sideNums=ffffff&currStreakNum=ffffff&dates=555555"/>
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjal0410&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000"/>
   </picture>
-  &nbsp;&nbsp;
+  &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranjal0410&theme=github_dark"/>
-    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranjal0410&theme=default"/>
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranjal0410&theme=default"/>
   </picture>
 </div>
 
@@ -82,25 +62,48 @@ Computer Science student at Chitkara University. I build full-stack systems with
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranjal0410&theme=github_dark"/>
-    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranjal0410&theme=default"/>
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranjal0410&theme=default"/>
   </picture>
-  &nbsp;&nbsp;
+  &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranjal0410&theme=github_dark"/>
-    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranjal0410&theme=default"/>
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranjal0410&theme=default"/>
   </picture>
 </div>
 
-<br/>
+---
+
+### Featured Work
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/Pranjal0410/Real-Time-Incident-Response-System">Real-Time Incident Response System</a></h4>
+      <sub>Live incident detection, alerting, and response coordination platform built for production environments.</sub><br/>
+      <sub><code>JavaScript</code> <code>Real-Time</code> <code>WebSockets</code></sub>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/Pranjal0410/AI-CareerCoach">AI Career Coach</a></h4>
+      <sub>AI-powered career guidance system — personalized recommendations, resume analysis, and interview prep.</sub><br/>
+      <sub><code>JavaScript</code> <code>AI/ML</code> <code>Full-Stack</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/Pranjal0410/real-estate-project">Real Estate Platform</a></h4>
+      <sub>Full-stack property management and listing platform with search, filtering, and user dashboards.</sub><br/>
+      <sub><code>Java</code> <code>Spring</code> <code>PostgreSQL</code></sub>
+    </td>
+    <td width="50%">
+      <h4><a href="https://pranjaludhwani.vercel.app/">Portfolio</a></h4>
+      <sub>Personal site — project showcase, technical writing, and contact. Designed and built from scratch.</sub><br/>
+      <sub><code>Next.js</code> <code>TypeScript</code> <code>Vercel</code></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<br/>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranjal0410&style=flat-square&color=black" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <sub>Building with intention. One commit at a time.</sub>
+  <sub>Systems over scripts. Products over prototypes.</sub>
 </p>
