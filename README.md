@@ -1,5 +1,5 @@
 <a href="https://pranjaludhwani.vercel.app/">
-  <img src="./assets/banner.png" width="100%" alt="Pranjal Udhwani — Full-Stack Developer, Systems Architect, AI Builder"/>
+  <img src="./assets/piuo.png" width="100%" alt="Pranjal Udhwani — Full-Stack Developer, Systems Architect, AI Builder"/>
 </a>
 
 <br/>
