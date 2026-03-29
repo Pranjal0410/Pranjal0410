@@ -1,5 +1,5 @@
 <a href="https://pranjaludhwani.vercel.app/">
-<img src="./assets/banner1" width="100%" alt="Pranjal - Full Stack Developer"/>
+<img src="./assets/image.png" width="100%" alt="Pranjal - Full Stack Developer"/>
 </a>
 <img src="./assets/purple-divider.svg" width="100%"/>
 
