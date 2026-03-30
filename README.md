@@ -14,8 +14,7 @@
   <a href="https://pranjaludhwani.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Pranjal0410&style=flat-square&color=black&label=views" alt="Profile views"/>
-</p>
+  
 
 <br/>
 
