@@ -13,16 +13,16 @@
   </a>&nbsp;
   <a href="https://pranjaludhwani.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>&nbsp;
-  
+  </a>
+</p>
 
 <br/>
 
-```
-I build full-stack systems — from architecture to deployment.
-Generative AI, real-time platforms, production-grade applications.
-Clean code. Scalable design. Things that actually ship.
-```
+<p align="center">
+  <code>I build full-stack systems — from architecture to deployment.</code><br/>
+  <code>Generative AI, real-time platforms, production-grade applications.</code><br/>
+  <code>Clean code. Scalable design. Things that actually ship.</code>
+</p>
 
 <br/>
 
@@ -46,13 +46,13 @@ Clean code. Scalable design. Things that actually ship.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Pranjal0410&theme=dark&hide_border=true&background=0a0a0c&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8c8c91&sideNums=ffffff&currStreakNum=ffffff&dates=555555&v=2"/>
-    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjal0410&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000&v=2"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Pranjal0410&theme=dark&hide_border=true&background=0a0a0c&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8c8c91&sideNums=ffffff&currStreakNum=ffffff&dates=555555"/>
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjal0410&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000"/>
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranjal0410&theme=github_dark&v=2"/>
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranjal0410&theme=default&v=2"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pranjal0410&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark&icon_color=ffffff&title_color=ffffff&text_color=8c8c91"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranjal0410&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default"/>
   </picture>
 </div>
 
@@ -60,13 +60,13 @@ Clean code. Scalable design. Things that actually ship.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranjal0410&theme=github_dark&v=2"/>
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranjal0410&theme=default&v=2"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranjal0410&theme=github_dark"/>
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranjal0410&theme=default"/>
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranjal0410&theme=github_dark&v=2"/>
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranjal0410&theme=default&v=2"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranjal0410&theme=github_dark"/>
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranjal0410&theme=default"/>
   </picture>
 </div>
 
