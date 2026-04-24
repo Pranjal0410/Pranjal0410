@@ -19,12 +19,47 @@
 <br/>
 
 <p align="center">
-  <code>I build full-stack systems — from architecture to deployment.</code><br/>
-  <code>Generative AI, real-time platforms, production-grade applications.</code><br/>
-  <code>Clean code. Scalable design. Things that actually ship.</code>
+  <code>CS final year · Chitkara University · Chandigarh, India</code><br/>
+  <code>I build production-grade full-stack systems with real AI in them — not demos.</code><br/>
+  <code>TypeScript · Python · React · Node.js · PostgreSQL · Docker</code>
+</p>
+
+<p align="center">
+  <b>Open to: SDE / AI Engineer roles &nbsp;·&nbsp; Available from: [your date]</b>
 </p>
 
 <br/>
+
+---
+
+### What I've Shipped
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/Pranjal0410/Real-Time-Incident-Response-System">Real-Time Incident Response System</a></h4>
+      <sub>Live detection → alert → response coordination via WebSockets. Sub-second latency. Handles concurrent incidents in a production-grade architecture — not a toy project.</sub><br/><br/>
+      <sub><code>JavaScript</code> <code>WebSockets</code> <code>Real-Time Systems</code></sub>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/Pranjal0410/AI-CareerCoach">AI Career Coach</a></h4>
+      <sub>End-to-end AI pipeline — resume parsing, gap analysis, personalized recommendations. Not a ChatGPT wrapper. Actual LLM integration with structured output.</sub><br/><br/>
+      <sub><code>JavaScript</code> <code>LLM Integration</code> <code>Full-Stack</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/Pranjal0410/real-estate-project">Real Estate Platform</a></h4>
+      <sub>Full-stack property management with Java + Spring Boot backend, PostgreSQL, and search/filter at scale. Designed with production data modeling in mind.</sub><br/><br/>
+      <sub><code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code></sub>
+    </td>
+    <td width="50%">
+      <h4><a href="https://pranjaludhwani.vercel.app/">Portfolio</a></h4>
+      <sub>Designed and built from scratch. Project showcase, technical writing, and contact — deployed on Vercel with zero downtime.</sub><br/><br/>
+      <sub><code>Next.js</code> <code>TypeScript</code> <code>Vercel</code></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -39,67 +74,6 @@
 <p align="center">
   <sub><b>Languages</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Frameworks</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Infrastructure</b></sub>
 </p>
-
----
-
-### Metrics
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Pranjal0410&theme=dark&hide_border=true&background=0a0a0c&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8c8c91&sideNums=ffffff&currStreakNum=ffffff&dates=555555"/>
-    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjal0410&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000"/>
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pranjal0410&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark&icon_color=ffffff&title_color=ffffff&text_color=8c8c91"/>
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranjal0410&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default"/>
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranjal0410&theme=github_dark"/>
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranjal0410&theme=default"/>
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranjal0410&theme=github_dark"/>
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranjal0410&theme=default"/>
-  </picture>
-</div>
-
----
-
-### Featured Work
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/Pranjal0410/Real-Time-Incident-Response-System">Real-Time Incident Response System</a></h4>
-      <sub>Live incident detection, alerting, and response coordination platform built for production environments.</sub><br/>
-      <sub><code>JavaScript</code> <code>Real-Time</code> <code>WebSockets</code></sub>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/Pranjal0410/AI-CareerCoach">AI Career Coach</a></h4>
-      <sub>AI-powered career guidance system — personalized recommendations, resume analysis, and interview prep.</sub><br/>
-      <sub><code>JavaScript</code> <code>AI/ML</code> <code>Full-Stack</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/Pranjal0410/real-estate-project">Real Estate Platform</a></h4>
-      <sub>Full-stack property management and listing platform with search, filtering, and user dashboards.</sub><br/>
-      <sub><code>Java</code> <code>Spring</code> <code>PostgreSQL</code></sub>
-    </td>
-    <td width="50%">
-      <h4><a href="https://pranjaludhwani.vercel.app/">Portfolio</a></h4>
-      <sub>Personal site — project showcase, technical writing, and contact. Designed and built from scratch.</sub><br/>
-      <sub><code>Next.js</code> <code>TypeScript</code> <code>Vercel</code></sub>
-    </td>
-  </tr>
-</table>
 
 ---
 
