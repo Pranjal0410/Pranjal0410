@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <b>Open to: SDE / AI Engineer roles &nbsp;·&nbsp; Available from: [your date]</b>
+  <b>Open to: SDE / AI Engineer roles &nbsp;·&nbsp; </b>
 </p>
 
 <br/>
